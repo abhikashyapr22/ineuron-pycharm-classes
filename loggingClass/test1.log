@@ -1,0 +1,19 @@
+INFO:root:This is my very first code for logging
+INFO:root:This is my very first code for logging
+INFO:root:2
+INFO:root:This is my very first code for logging
+INFO:root:2
+INFO:root:This is my very first code for logging
+INFO:root:2
+INFO:root:This is my very first code for logging
+WARNING:root:this will try to log a warning
+INFO:root:2
+WARNING:root:this is warning for a user that they have found out 2 in the list
+INFO:root:This is my very first code for logging
+WARNING:root:this will try to log a warning
+INFO:root:2
+WARNING:root:this is warning for a user that they have found out 2 in the list
+INFO:root:This is my very first code for logging
+WARNING:root:this will try to log a warning
+INFO:root:2
+WARNING:root:this is warning for a user that they have found out 2 in the list

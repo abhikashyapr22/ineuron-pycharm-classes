@@ -1,0 +1,12 @@
+load ---> merge ---> filter ---> store ---> DB
+
+logging:
+print only available in runtime mode
+
+level of log -
+1--debug 10 (severity)
+2--warning 30
+3--error 40
+4--critical 50
+5--info 20
+

@@ -1,0 +1,17 @@
+INFO 2022-07-03 23:56:48,445 root Values enter by user are a and b
+INFO 2022-07-03 23:56:57,692 root Values enter by user are a and b
+INFO 2022-07-03 23:58:58,331 root Values enter by user are 3 and 8
+INFO 2022-07-04 00:02:33,487 root Values enter by user are 3 and 8
+INFO 2022-07-04 00:02:33,487 root we are into the function
+INFO 2022-07-04 00:02:33,488 root we have completed a division operation
+INFO 2022-07-04 00:02:57,254 root Values enter by user are 3 and 0
+INFO 2022-07-04 00:02:57,254 root we are into the function
+ERROR 2022-07-04 00:02:57,254 root division by zero
+Traceback (most recent call last):
+  File "C:\Users\Abhishek Kashyap\PycharmProjects\loggingClass\test3.py", line 8, in divide
+    div = a/b
+ZeroDivisionError: division by zero
+INFO 2022-07-04 00:06:19,128 root Values enter by user are 3 and 5
+INFO 2022-07-04 00:06:19,128 root we are into the function
+INFO 2022-07-04 00:06:19,128 root we have completed a division operation
+INFO 2022-07-04 00:06:19,128 root Result of the operation is 0.6
