@@ -1,21 +1,21 @@
 class
 object
 constructor
-inheritance
 private
 public
 protected
-abstraction
-encaptulations
-polymorpsim
+inheritance
+abstraction --- abstraction
+encapsulation --- modifying
+polymorphism
 package
-modules
-method overrridding
+module
+method overriding
 
 For all the concepts that we have discussed in our class point by point you have to write
 at least 10 examples
 
-you have to make sure that use ineuron studnets , class , class type , number of courses
+you have to make sure that use ineuron students , class , class type , number of courses
 , affiliates , blog, internship , jobs as a reference example
 
 

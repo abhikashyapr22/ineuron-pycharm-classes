@@ -11,6 +11,7 @@ class ineuron:
         self._ineuron = "Abhi"
 
     def student1(self):
+        print(self._ineuron)
         """
             static method
         """
@@ -19,4 +20,5 @@ class ineuron:
 
 i = ineuron()
 i.student1()
-i._ineuron__student
+print(i._ineuron)
+print(i._ineuron__student)
