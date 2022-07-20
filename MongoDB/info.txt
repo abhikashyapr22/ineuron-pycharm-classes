@@ -1,2 +1,4 @@
 client = pymongo.MongoClient("mongodb+srv://test:root@cluster0.ne0ebrv.mongodb.net/?retryWrites=true&w=majority")
 db = client.test
+
+datasets for practice purpose:  https://archive.ics.uci.edu/ml/datasets/bank+marketing

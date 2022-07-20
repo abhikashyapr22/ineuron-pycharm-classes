@@ -1,0 +1,10 @@
+#What is WebSocket ?
+
+WebSocket is a new communication protocol introduced with HTML5, mainly to be implemented by web clients and servers,
+though it can also be implemented outside of the web.
+
+Unlike HTTP connections, a WebSocket connection is a permanent, bi-directional communication channel between a client
+and the server, where either one can initiate an exchange.
+Once established, the connection remains available until one of the parties disconnects from it.
+
+WebSocket connections are useful for games or web sites that need to display live information with very low latency
