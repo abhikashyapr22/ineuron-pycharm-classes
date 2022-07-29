@@ -1,0 +1,180 @@
+html {
+    margin: 0;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+header {
+       background-color:tomato;
+       color:red;
+       float:middle;
+       text-align:left;
+       font-size:35px;
+       padding: 0px;
+       background-image:url("FB_IMG_15523807295391386.jpg");
+       }
+
+body {
+  background-image: url("FB_IMG_15523807295391386.jpg");
+  background-color: lightgreen;
+}
+
+ nav ul {
+        list-style-type:none;
+
+        display:inline;
+
+        overflow:hidden;
+
+
+       }
+
+li {
+    float:left;
+     }
+
+select,li, a{
+     display:block;
+     color:Black;
+     text-align:centre;
+     border:0;
+     padding:10px;
+     text-decoration:none;
+
+     }
+
+li a:hover{
+    background-color:grey;
+    }
+
+ a:visited  {
+            color:white;
+            background-color:red;
+            text-decoration:none;
+            }
+
+#a {
+  text-decoration:none;
+   }
+section:after {
+               content:"";
+               display:table;
+               clear:both;
+               }
+
+article {
+         float:centre;
+         padding:20px;
+         }
+
+
+footer {
+        background-color:black;
+        padding:10px;
+        margin:20px 5px 20px 5px;
+        text-align:centre;
+        color:white;
+        }
+
+
+p, title {
+         font-family:sans-serif;
+         color:black;
+         width:50%;
+
+         }
+
+@media (max-width:600){
+             ul,article{
+               width:100;
+               height:auto;
+               }
+              }
+
+
+div {
+     max-width:100%;
+     border:2px solid black;
+     padding:0px;
+     margin:10px;
+     text-align:centre;
+     background-color:#888888;
+     color:black;
+     display:block;
+     position:relative;
+
+     }
+
+.ifm-form{
+      background-color:lightgrey;
+      border:10px;
+      float:left;
+      }
+
+
+/*
+
+
+table, td, th {
+    border: 1px solid #aaa;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    height: 30px;
+}
+
+td {
+    text-align: center;
+    padding: 5px;
+}
+
+.form {
+    margin-top: 20px;
+}
+
+#content {
+    width: 100%;
+}
+table{
+width: 100%;
+border: 1px solid black
+background-color: #f1f1c1;
+}
+
+table td, table th {
+  color: #2b686e;
+  padding: 10px;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+#t01 tr:nth-child(even) {
+  background-color: #eee;
+}
+#t01 tr:nth-child(odd) {
+ background-color: #fff;
+}
+#t01 th {
+  background-color: black;
+  color: white;
+}
+
+
+
+*/
+
