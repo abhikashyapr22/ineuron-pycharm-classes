@@ -2,7 +2,7 @@ import mysql.connector as connection
 
 
 try:
-    mydb = connection.connect(host="localhost",user="root",passwd="Abhishek@1067",use_pure=True)
+    mydb = connection.connect(host="localhost",user="root",passwd="*********",use_pure=True)
 
     # check if the connection is established
     query = "show databases"
