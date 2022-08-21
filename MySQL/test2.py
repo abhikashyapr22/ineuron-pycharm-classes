@@ -1,6 +1,6 @@
 import mysql.connector as conn
 
-mydb = conn.connect(host = "localhost", user= "root", passwd="Abhishek@1067")
+mydb = conn.connect(host = "localhost", user= "root", passwd="**********")
 cursor = mydb.cursor()
 
 # cursor.execute("create database mysql_python")
